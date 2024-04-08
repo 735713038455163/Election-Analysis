@@ -48,11 +48,11 @@ The improvements were in some of the following areas:
 
 Such as the for loop here for county name, county votes:
 
-![countrynamecountyvotes](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/countrynamecountyvotes.PNG)
+![countrynamecountyvotes](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/countrynamecountyvotes.PNG)
 
 And the for-loop candidate name, candidate votes:
 
-![forcandidatenameandcandidatevotes](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/forcandidatenameandcandidatevotes.PNG)
+![forcandidatenameandcandidatevotes](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/forcandidatenameandcandidatevotes.PNG)
 
 To review the dataset the following are considerations:
 
@@ -60,12 +60,12 @@ To review the dataset the following are considerations:
 * Before you open the CSV, you need to make a connection to the file by using your computer's directory "path" to that file.
 As such:
 
-![filetoload](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/filetoload.PNG)
+![filetoload](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/filetoload.PNG)
 
 When the file to load is successful you have an understanding how to change directory by using cd and linking a copy of the file path to ensure the code refers to the relative directory versus the absolute. 
 As such:
 
-![filetoloadsuccessful](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/filetoloadsuccess.PNG)
+![filetoloadsuccessful](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/filetoloadsuccess.PNG)
 
 
 ## Challenges and Difficulties Encountered
@@ -74,21 +74,21 @@ Debugging code and troubleshooting is a difficult but rewarding task in the fiel
 
 Such as this error:
 
-![error](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/error.PNG)
+![error](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/error.PNG)
 
 The error is an IOError, which is an "Input/Output" error, meaning that we used an output directory, 'analysis/election_analysis.txt', that doesn't exist with the given file path.
 
 
 - Determining the winning candidate, vote count, and percentage with a decision statement. 
 
-![Winning Country Summary](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/Winning%20County%20Summary.PNG)
-![Winning](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/Winning.PNG)
+![Winning Country Summary](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/Winning%20County%20Summary.PNG)
+![Winning](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/Winning.PNG)
 Lastly,
 
 - Printing to a text file. 
 
-![Election results](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/Election%20results.PNG)
-![Election results picture](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/Election%20results%20picture.PNG)
+![Election results](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/Election%20results.PNG)
+![Election results picture](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/Election%20results%20picture.PNG)
 
 Overall, I enjoyed working with Python over VBA. 
 
