@@ -41,7 +41,7 @@ Also for the analysis data types are stored and accessed. In the election audit,
 
 We learned how to retrieve data based on conditions known as a decision statements to produce analytics of winning results as shown here:
 
-  ![Final](https://github.com/735713038455163/Election-Analysis/blob/main/Resources/Final.PNG)
+  ![Final](https://github.com/735713038455163/Election-Analysis/blob/master/Resources/Final.PNG)
 
 The improvements were in some of the following areas:
 * When writing an algorithm that performs the same task over and over, it's a lot easier to write the code for the algorithm once, and then place that algorithm in a repetition structure that can be repeated as many times as necessary. This type of repetition structure is called a loop.
